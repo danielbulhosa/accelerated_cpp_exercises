@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise5-11/ascenders.h
+string
+-
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise5-11/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+ascenders.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise5-11/ascenders.h
+

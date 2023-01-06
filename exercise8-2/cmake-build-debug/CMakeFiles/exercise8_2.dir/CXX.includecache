@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise8-2/main.cpp
+iostream
+-
+string
+-
+vector
+-
+myalgorithms.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise8-2/myalgorithms.h
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise8-2/myalgorithms.h
+

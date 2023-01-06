@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise7-0/xref.cpp
+map
+-
+string
+-
+algorithm
+-
+vector
+-
+iostream
+-
+cctype
+-
+xref.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise7-0/xref.h
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise7-0/xref.h
+map
+-
+string
+-
+vector
+-
+iostream
+-
+

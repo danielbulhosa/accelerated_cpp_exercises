@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise10-4/String_list.cpp
+string
+-
+algorithm
+-
+cctype
+-
+String_list.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise10-4/String_list.h
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise10-4/String_list.h
+string
+-
+cstddef
+-
+algorithm
+-
+

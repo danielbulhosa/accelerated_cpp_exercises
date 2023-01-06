@@ -1,0 +1,3 @@
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise0-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise0-5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise0-5/cmake-build-debug/CMakeFiles/exercise0_5.dir

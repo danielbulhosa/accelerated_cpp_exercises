@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise6-2/findurl.cpp
+vector
+-
+string
+-
+cctype
+-
+findurl.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise6-2/findurl.h
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise6-2/findurl.h
+vector
+-
+string
+-
+

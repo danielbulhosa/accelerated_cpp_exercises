@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Audit.cpp
+Audit.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Audit.h
+Grad.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Grad.h
+istream
+-
+string
+-
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Audit.h
+Core.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Core.h
+istream
+-
+string
+-
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Core.h
+vector
+-
+string
+-
+istream
+-
+median.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/median.h
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Grad.h
+Core.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Core.h
+istream
+-
+string
+-
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Student_info.h
+string
+-
+Core.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Core.h
+istream
+-
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/main.cpp
+iostream
+-
+string
+-
+algorithm
+-
+stdexcept
+-
+iomanip
+-
+Student_info.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/Student_info.h
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise13-0/median.h
+vector
+-
+

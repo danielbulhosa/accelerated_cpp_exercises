@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise11-0/Vec.h
+cstddef
+-
+memory
+-
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise11-0/main.cpp
+iostream
+-
+Vec.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise11-0/Vec.h
+

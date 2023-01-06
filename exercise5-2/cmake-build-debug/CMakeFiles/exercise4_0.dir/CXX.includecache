@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise5-2/grade.h
+vector
+-
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise5-2/main.cpp
+iostream
+-
+string
+-
+algorithm
+-
+stdexcept
+-
+iomanip
+-
+student_info.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise5-2/student_info.h
+grade.h
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise5-2/grade.h
+
+/Users/danielbulhosa/CLionProjects/Accelerated C++ Exercises/exercise5-2/student_info.h
+string
+-
+vector
+-
+list
+-
+iostream
+-
+
